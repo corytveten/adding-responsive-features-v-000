@@ -12,6 +12,13 @@
   }
 
   #social a {
-    display: 
+    display: inline-block;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+
+  body {
+    font-size: 85%;
   }
 }
